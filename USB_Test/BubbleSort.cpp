@@ -2,6 +2,8 @@
 void MyBubbleSort(int arr[], int len)
 {
 	int i, j, temp;
+	int flag = 0, a = 1;
+	int b = 2;
 	for (i = 0; i < len - 1; i++)
 	{
 		for (j = 0; j < len - i - 1; j++)
