@@ -1,0 +1,7 @@
+6
+D:\test\JJTrace - 副本 (2).log
+D:\test\JJTrace - 副本 (3).log
+D:\test\JJTrace - 副本 (4).log
+D:\test\JJTrace - 副本.log
+D:\test\JJTrace.log
+D:\test\json2.js
