@@ -1,5 +1,5 @@
 //√∞≈›≈≈–ÚÀ„∑®
-void BubbleSort(int arr[], int len)
+void MyBubbleSort(int arr[], int len)
 {
 	int i, j, temp;
 	int flag = 0, a = 1;
